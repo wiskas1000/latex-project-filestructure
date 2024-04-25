@@ -12,6 +12,9 @@
 *.cb2
 .*.lb
 
+## Capture output file on top folder
+/*.pdf
+
 ## Intermediate documents:
 *.dvi
 *.xdv
